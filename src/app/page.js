@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import SectionSwitcher from "./components/SectionSwitcher";
+import SectionSwitcher from "./components/SectionSwitcher/SectionSwitcher";
 import styles from "./page.module.css";
 
 export default function Home() {

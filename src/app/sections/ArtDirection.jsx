@@ -1,3 +1,8 @@
 export default function ArtDirection() {
-  return <div>Art Direction</div>;
+  return (
+    <div>
+      <h1>Art Direction</h1>
+      <p>Lorem ipsum dolor sit amet</p>
+    </div>
+  );
 }

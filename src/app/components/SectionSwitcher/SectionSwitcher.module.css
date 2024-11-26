@@ -1,0 +1,7 @@
+.nav button {
+  margin-right: 30px;
+}
+
+.nav:last-child {
+  margin-right: 0;
+}

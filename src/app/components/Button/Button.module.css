@@ -1,0 +1,27 @@
+/* Default button styles */
+.button {
+  border-radius: 50px;
+  text-transform: uppercase;
+  padding: 16px 31px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+/* Variants */
+.default {
+  background-color: transparent;
+  color: #C1C1C1;
+  border: 1px solid #C1C1C1;
+}
+
+.active {
+  background-color: #98B8ED;
+  border: 1px solid #98B8ED;
+  color: #0C1524;
+}
+
+/* Hover effects */
+.button:hover {
+  opacity: 0.9;
+}
